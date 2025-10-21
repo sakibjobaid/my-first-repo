@@ -6,3 +6,5 @@ Line 3: after branch creating
 
 Line 4: Overwrite conflicting line
 
+Line 5: editing before pushing into github
+
