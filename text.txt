@@ -3,3 +3,5 @@ Line 1
 Line 2: before branch creating
 
 Line 3: after branch creating
+
+Line 4: conflicting line
